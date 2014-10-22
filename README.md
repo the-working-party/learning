@@ -9,6 +9,8 @@ learning
 * http://unakravets.tumblr.com/post/sassconf-2014-resource-roundup
 * http://webdesign.tutsplus.com/tutorials/how-to-use-sass-to-build-one-project-with-multiple-themes--cms-22104
 * http://markdotto.com/2014/09/25/sass-and-jekyll/
+* http://www.sitepoint.com/scaling-values-across-breakpoints-using-sass/
+* http://lunelson.roughdraft.io/cc1b431a69360949dc01-the-self-aware-sass-mixin
 
 ##Sass Frameworks
 
@@ -16,6 +18,7 @@ learning
 
 * http://zell-weekeat.com/learnsusy/
 * http://css-tricks.com/build-web-layouts-easily-susy/
+* https://github.com/ericam/su
 
 ##Styleguides
 
