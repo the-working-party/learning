@@ -8,6 +8,7 @@ learning
 * http://thesassway.com/intermediate
 * http://unakravets.tumblr.com/post/sassconf-2014-resource-roundup
 * http://webdesign.tutsplus.com/tutorials/how-to-use-sass-to-build-one-project-with-multiple-themes--cms-22104
+* http://markdotto.com/2014/09/25/sass-and-jekyll/
 
 ##Sass Frameworks
 
@@ -43,7 +44,7 @@ learning
 ##Colour
 
 * https://elrumordelaluz.github.io/draGGradients/
-* http://jxnblk.com/Spectral/#525252&hues=1&rows=0&shiftS=0.1&shiftL=0.1
+* http://jxnblk.com/Spectral/
 
 ##Typography
 
