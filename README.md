@@ -44,7 +44,7 @@ learning
 
 * https://elrumordelaluz.github.io/draGGradients/
 * http://jxnblk.com/Spectral/#525252&hues=1&rows=0&shiftS=0.1&shiftL=0.1
-* 
+
 ##Typography
 
 * https://bugsnag.com/blog/responsive-typography-with-rems
