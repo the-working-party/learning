@@ -11,6 +11,7 @@ learning
 * http://markdotto.com/2014/09/25/sass-and-jekyll/
 * http://www.sitepoint.com/scaling-values-across-breakpoints-using-sass/
 * http://lunelson.roughdraft.io/cc1b431a69360949dc01-the-self-aware-sass-mixin
+* https://betravis.github.io/icon-methods/svg-sprite-sheets.html
 
 ##Sass Frameworks
 
