@@ -57,3 +57,7 @@ learning
 * https://bugsnag.com/blog/responsive-typography-with-modular-scale
 * https://bugsnag.com/blog/responsive-typography-with-chained-media-queries
 * http://blog.typekit.com/2014/10/22/creating-a-type-style-guide/
+
+##Shopify
+
+* https://ecommerce.shopify.com/grader
